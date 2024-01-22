@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Henrico</title>
+ <link rel="icon" type="image/x-icon" href="logo.png">
+</head>
+<body>
+
+<a href=/index.html><img src="logo.png" alt="Logo" width="100%" height="auto"></a>
+<h2>Melde dich jetzt an!</h2>
+<input type="password" placeholder="Henrico-Key">
+<input type="password" placeholder="Password">
+<h1>Anmeldung zur Zeit nicht möglich<h1>
+
+</body>
+</html>
