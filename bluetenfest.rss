@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Blütenfest Wiesmoor</title>
+<link>https://bluetenfest.myportfolio.com</link>
+<description>Neuigkeiten zum Blütenfest</description>
+  
+  <item>
+  <title>Krönungswagen | Blütenwagen</title>
+  <link>https://bluetenfest.myportfolio.com/kroenungswagen</link>
+  <description>Der Krönungswagen transportiert das amtierende Königshaus im Korso. ...</description>
+  <pubDate>01 Aug 2023 00:00:00 GMT</pubDate>
+  <guid isPermaLink="false">beispielartikel1-20210406</guid>
+</item>
+
+
+</channel>
+</rss>
